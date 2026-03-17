@@ -1,5 +1,0 @@
-VectorDBs are flat document indexes. They fail as soon as you ingest 10M documents and complex enterprise data. The project "strawberry" and the fruit "strawberry" are the same word, but completely different contexts. VectorDBs cannot tell the difference.
-
-Retrieval accuracy collapses at scale. They store no relationships, no decisions, no timeline — just vectors. Similarity is not relevance.
-
-HydraDB fixes this. 
